@@ -17,11 +17,11 @@ This simple CLI tool helps you launch your favorite Nintendo DS games using the 
     Make the script executable: chmod +x play_game.sh
     Interactive Selection (no argument):
 
-    ./play_game.sh
+    ./play.sh
 
     rofi Selection:
 
-    ./play_game.sh rofi
+    ./play.sh rofi
 
 ---
 
